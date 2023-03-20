@@ -1,4 +1,4 @@
-package nonstaticmembers;
+package com.udemypractice.nonstaticmembers;
 
 public class UsingThis {
     int a=10;

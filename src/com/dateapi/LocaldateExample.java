@@ -2,9 +2,6 @@ package com.dateapi;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.util.List;
-import java.util.Optional;
-import java.util.Set;
 
 public class LocaldateExample {
     public static void main(String[] args) {
@@ -42,13 +39,8 @@ public class LocaldateExample {
         System.out.println(t4);
 
         //date time formatter
-        DateTimeFormatter a=DateTimeFormatter.ofPattern("dd-mm-yyyy       hh:mm:ss");
+        DateTimeFormatter a=DateTimeFormatter.ofPattern("dd-MM-yyyy       hh:mm:ss");
         String formatedDateTime=t4.format(a);
         System.out.println(formatedDateTime);
-
-
-
-
-
     }
 }

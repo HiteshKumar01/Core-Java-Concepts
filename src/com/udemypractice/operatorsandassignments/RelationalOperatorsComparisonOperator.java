@@ -1,4 +1,4 @@
-package operatorsandassignments;
+package com.udemypractice.operatorsandassignments;
 
 public class RelationalOperatorsComparisonOperator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package command_line_arguement;
+package com.udemypractice.commandlinearguement;
 
 public class CommandLineArgument {
     public static void main(String[] args){

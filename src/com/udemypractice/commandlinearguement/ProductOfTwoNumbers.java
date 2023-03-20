@@ -1,4 +1,4 @@
-package command_line_arguement;
+package com.udemypractice.commandlinearguement;
 
 public class ProductOfTwoNumbers {
     public static void main(String[] args){

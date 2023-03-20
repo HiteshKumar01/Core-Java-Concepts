@@ -1,4 +1,4 @@
-package wrapperclasses;
+package com.udemypractice.wrapperclasses;
 
 public class WrapperTypeConstructors {
     public static void main(String[] args){

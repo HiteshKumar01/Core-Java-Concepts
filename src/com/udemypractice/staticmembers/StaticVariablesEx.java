@@ -1,4 +1,4 @@
-package staticmembers;
+package com.udemypractice.staticmembers;
 
 public class StaticVariablesEx {
     static int a;

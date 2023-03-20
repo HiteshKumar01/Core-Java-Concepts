@@ -1,4 +1,4 @@
-package variables;
+package com.udemypractice.variables;
 
 //types of variable: static, non-static and local variables
 public class BankAccount {

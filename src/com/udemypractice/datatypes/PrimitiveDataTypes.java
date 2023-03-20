@@ -1,4 +1,4 @@
-package datatypes;
+package com.udemypractice.datatypes;
 
 public class PrimitiveDataTypes {
     byte a=100;

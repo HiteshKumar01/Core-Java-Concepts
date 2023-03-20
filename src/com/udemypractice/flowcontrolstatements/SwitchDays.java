@@ -1,4 +1,4 @@
-package flowcontrolstatements;
+package com.udemypractice.flowcontrolstatements;
 
 import java.util.Scanner;
 

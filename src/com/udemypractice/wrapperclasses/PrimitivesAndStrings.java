@@ -1,4 +1,4 @@
-package wrapperclasses;
+package com.udemypractice.wrapperclasses;
 
 public class PrimitivesAndStrings {
     public static void main(String[] args){

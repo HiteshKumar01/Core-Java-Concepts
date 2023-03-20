@@ -1,4 +1,4 @@
-package datatypes;
+package com.udemypractice.datatypes;
 
 public class TypeCasting {
     public static void main(String[] args) {

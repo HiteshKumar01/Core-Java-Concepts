@@ -1,4 +1,4 @@
-package packageA;
+package com.udemypractice.accessmodifiers.package_a;
 
 public class A {
     private int a=10;

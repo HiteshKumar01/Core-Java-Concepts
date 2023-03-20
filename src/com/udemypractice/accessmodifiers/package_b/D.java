@@ -1,6 +1,6 @@
-package packageB;
+package com.udemypractice.accessmodifiers.package_b;
 
-import packageA.A;
+import com.udemypractice.accessmodifiers.package_a.A;
 
 public class D {
     public static void main(String[] args){

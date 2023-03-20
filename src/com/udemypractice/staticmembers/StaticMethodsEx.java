@@ -1,4 +1,4 @@
-package staticmembers;
+package com.udemypractice.staticmembers;
 
 public class StaticMethodsEx {
     public static void main(String[] args){
